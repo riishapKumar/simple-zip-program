@@ -1,0 +1,15 @@
+hello to anyone who views this folder. this program runs on command line arugments 
+to run this you need to make an executeble for it. first
+then apply this for zap and unzap 
+./<exe file> <target_file_name> <output_file_name>
+for zap
+example 
+./zap huffman.txt huffman.txt.zap
+for unzap 
+example 
+./unzap huffman.txt.zap huffman.txt
+
+
+ps plz if you use this code give credit where credit is due, i will also acknowlege the fact that i do not condone to cheat with assigments, this is ment to learn compression and decompression alogothrims. have fun using this c++ program !! :)
+
+ 
